@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="background_color">#F0F4F8</color>
+    <color name="edittext_background">#FFFFFF</color>
+    <color name="edittext_hint">#999999</color>
+    <color name="edittext_text">#333333</color>
+    <color name="button_color">#4CAF50</color>
+    <color name="button_text">#FFFFFF</color>
+</resources>
